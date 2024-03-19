@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Balas de plata" (2008) {(#1.8)}
+   </title>
+   <url>http://www.imdb.com/Title?"Balas de plata" (2008) {(#1.8)}
+   </url>
+   <overview>
+      <directors>
+         <director>Berdún, Lorena
+         </director>
+         <director>Torras, Carles (I)
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>Spain 22 May 2008 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Duran i Lleida, Josep A.
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+         <actor>
+            <name>Berdún, Lorena
+            </name>
+            <character>Herself - Host  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Flores, Rosario (I)
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

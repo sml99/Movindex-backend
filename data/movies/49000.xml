@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Anna und die Liebe" (2008) {(#1.356)}
+   </title>
+   <url>http://www.imdb.com/Title?"Anna und die Liebe" (2008) {(#1.356)}
+   </url>
+   <overview>
+      <directors>
+         <director>Meyer-Ricks, Kai
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>Germany 21 January 2010 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <producers>
+         <producer>Rühle, Karsten
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

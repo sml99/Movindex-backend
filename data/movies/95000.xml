@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Bone Chillers" (1996) {Charlotte's Revenge (#1.6)}
+   </title>
+   <url>http://www.imdb.com/Title?"Bone Chillers" (1996) {Charlotte's Revenge (#1.6)}
+   </url>
+   <overview>
+      <directors>
+         <director>Coppola, Christopher (I)
+         </director>
+         <director>Elfman, Richard
+         </director>
+      </directors>
+      <writers>
+         <writer>Dupré, Carl V.
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 12 October 1996 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Powell, Esteban
+            </name>
+            <character>Brian Holsapple
+            </character>
+         </actor>
+         <actor>
+            <name>Cardellini, Linda
+            </name>
+            <character>Sarah
+            </character>
+         </actor>
+      </actors>
+      <composers>
+         <composer>Crissman, Randall
+         </composer>
+      </composers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

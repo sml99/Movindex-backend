@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Clive Anderson All Talk" (1996) {(#4.9)}
+   </title>
+   <url>http://www.imdb.com/Title?"Clive Anderson All Talk" (1996) {(#4.9)}
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>UK 28 October 1999 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Bunton, Emma
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+         <actor>
+            <name>Widdecombe, Ann
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

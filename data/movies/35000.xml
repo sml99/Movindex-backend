@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"All My Children" (1970) {(2002-06-06)}
+   </title>
+   <url>http://www.imdb.com/Title?"All My Children" (1970) {(2002-06-06)}
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>USA 6 June 2002 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Cauthen, Kal
+            </name>
+            <character>Kal
+            </character>
+         </actor>
+         <actor>
+            <name>Meyers, Christine
+            </name>
+            <character>Morgan
+            </character>
+         </actor>
+      </actors>
+      <miscellaneous>
+         <person>Bergman, Penny(stage manager)
+         </person>
+      </miscellaneous>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

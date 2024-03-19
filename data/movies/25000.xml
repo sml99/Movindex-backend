@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Adventures of Noddy" (1955)
+   </title>
+   <url>http://www.imdb.com/Title?"Adventures of Noddy" (1955)
+   </url>
+   <overview>
+      <directors>
+         <director>Firkin, Rex
+         </director>
+         <director>Lawrence, Quentin
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>UK 25 September 1955 
+         </releasedate>
+      </releasedates>
+      <genres>
+         <genre>Family
+         </genre>
+      </genres>
+      <keywords>
+         <keyword>character-name-in-title
+         </keyword>
+      </keywords>
+   </overview>
+   <cast>
+      <producers>
+         <producer>Peters, A.D.
+         </producer>
+      </producers>
+      <miscellaneous>
+         <person>Hayes, Peter (VIII)(puppetry)
+         </person>
+      </miscellaneous>
+   </cast>
+   <additional_details>
+      <runtime>15minutes
+      </runtime>
+      <countries>
+         <country>UK
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Black and White
+         </color>
+      </colors>
+      <distributors>
+         <distributor>Independent Television (ITV) [gb] - (1955) (UK) (TV)
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+      <movielinks>
+         <movielink>referenced in 
+            <link xlink:type="simple" xlink:href="../977/386977.xml">"Just a Minute" (1994) {(#4.11)}
+            </link>
+         </movielink>
+      </movielinks>
+   </fun_stuff>
+</movie>

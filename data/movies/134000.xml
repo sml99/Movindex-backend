@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Cinema 3" (1984) {(1996-11-01)}
+   </title>
+   <url>http://www.imdb.com/Title?"Cinema 3" (1984) {(1996-11-01)}
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>Spain 1 November 1996 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Cronenberg, David
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+         <actor>
+            <name>Spader, James
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+         <actor>
+            <name>Hunter, Holly
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

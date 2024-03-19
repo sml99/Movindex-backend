@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Bloopy's Buddies" (1996)
+   </title>
+   <url>http://www.imdb.com/Title?"Bloopy's Buddies" (1996)
+   </url>
+   <overview>
+      <rating>3.0  9votes
+      </rating>
+      <directors>
+         <director>Swan, Stan
+         </director>
+      </directors>
+      <writers>
+         <writer>Ginsberg, Sam (I)
+         </writer>
+         <writer>Swan, Stan
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 1996 
+         </releasedate>
+      </releasedates>
+      <genres>
+         <genre>Family
+         </genre>
+      </genres>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Calvo, Gerard
+            </name>
+            <character>Bloopy
+            </character>
+         </actor>
+         <actor>
+            <name>Hyman, Jack
+            </name>
+            <character>Jumpin' Jack
+            </character>
+         </actor>
+         <actor>
+            <name>Winters, Jonathan (I)
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+      </actors>
+      <producers>
+         <producer>Urban, Bill (I)
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+      <runtime>USA:20minutes
+      </runtime>
+      <countries>
+         <country>USA
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <certifications>
+         <certification>USA:TV-Y 
+         </certification>
+      </certifications>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

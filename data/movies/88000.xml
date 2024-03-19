@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Birlokus klub" (2004) {(#1.10)}
+   </title>
+   <url>http://www.imdb.com/Title?"Birlokus klub" (2004) {(#1.10)}
+   </url>
+   <overview>
+      <directors>
+         <director>Flórez, Olga
+         </director>
+      </directors>
+      <writers>
+         <writer>Ortolá, Abelardo
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>Spain 13 November 2004 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Muñoz, Guillermo (II)
+            </name>
+            <character>
+            </character>
+         </actor>
+         <actor>
+            <name>Herranz, Chus
+            </name>
+            <character>Basilisa
+            </character>
+         </actor>
+         <actor>
+            <name>Magro, Elena
+            </name>
+            <character>Isa
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

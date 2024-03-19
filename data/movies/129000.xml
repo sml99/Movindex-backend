@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Chico and the Man" (1974) {This Hallowed Garage (#2.2)}
+   </title>
+   <url>http://www.imdb.com/Title?"Chico and the Man" (1974) {This Hallowed Garage (#2.2)}
+   </url>
+   <overview>
+      <directors>
+         <director>Donohue, Jack
+         </director>
+      </directors>
+      <writers>
+         <writer>Friedman, Ron (II)
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 19 September 1975 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Albertson, Jack
+            </name>
+            <character>Ed Brown  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Crothers, Scatman
+            </name>
+            <character>Louie
+            </character>
+         </actor>
+         <actor>
+            <name>Daly, Jonathan (I)
+            </name>
+            <character>Daniel Hanreddy
+            </character>
+         </actor>
+         <actor>
+            <name>Graham, Ronny
+            </name>
+            <character>Reverend Bemis
+            </character>
+         </actor>
+         <actor>
+            <name>Prinze, Freddie
+            </name>
+            <character>Chico Rodriguez  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Cason, Barbara
+            </name>
+            <character>Commissioner Vickers
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

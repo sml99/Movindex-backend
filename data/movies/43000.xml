@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"American Idol: The Search for a Superstar" (2002) {Find Out Who's Been Eliminated from the Final 4 (#4.38)}
+   </title>
+   <url>http://www.imdb.com/Title?"American Idol: The Search for a Superstar" (2002) {Find Out Who's Been Eliminated from the Final 4 (#4.38)}
+   </url>
+   <overview>
+      <directors>
+         <director>Gowers, Bruce
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>USA 17 May 2005 
+         </releasedate>
+      </releasedates>
+      <keywords>
+         <keyword>based-on-british-tv-series
+         </keyword>
+         <keyword>american-idol
+         </keyword>
+      </keywords>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Solomon, Vonzell
+            </name>
+            <character>
+            </character>
+         </actor>
+      </actors>
+      <miscellaneous>
+         <person>Muccia, Jen(production staff)
+         </person>
+      </miscellaneous>
+   </cast>
+   <additional_details>
+      <countries>
+         <country>USA
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

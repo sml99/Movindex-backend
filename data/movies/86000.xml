@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Billy" (1979) {The Letter (#1.1)}
+   </title>
+   <url>http://www.imdb.com/Title?"Billy" (1979) {The Letter (#1.1)}
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>USA 26 February 1979 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Adams, Don (I)
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+         <actor>
+            <name>Alaimo, Michael (I)
+            </name>
+            <character>Norval Shadrack  &lt;5&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Gallery, James
+            </name>
+            <character>George Fisher  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Guttenberg, Steve
+            </name>
+            <character>Billy Fisher  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Talkington, Bruce
+            </name>
+            <character>Arthur Milliken  &lt;6&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Pope, Peggy
+            </name>
+            <character>Alice Fisher  &lt;3&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Trueman, Paula
+            </name>
+            <character>Gran  &lt;4&gt;
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

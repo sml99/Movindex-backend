@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Bewitched" (1964) {Samantha's Better Halves (#6.15)}
+   </title>
+   <url>http://www.imdb.com/Title?"Bewitched" (1964) {Samantha's Better Halves (#6.15)}
+   </url>
+   <overview>
+      <rating>7.4  12votes
+      </rating>
+      <directors>
+         <director>Asher, William
+         </director>
+      </directors>
+      <writers>
+         <writer>Garrett, Lila
+         </writer>
+         <writer>Kahn, Bernie
+         </writer>
+         <writer>Saks, Sol
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 1 January 1970 
+         </releasedate>
+      </releasedates>
+      <keywords>
+         <keyword>character-name-in-title
+         </keyword>
+      </keywords>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Loo, Richard
+            </name>
+            <character>Mr. Tanaka  &lt;5&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Sargent, Dick
+            </name>
+            <character>Darrin Stephens  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>White, David (II)
+            </name>
+            <character>Larry Tate  &lt;4&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Fong, Frances
+            </name>
+            <character>Mrs. Tanaka  &lt;7&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Montgomery, Elizabeth (I)
+            </name>
+            <character>Samantha Stephens  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Moorehead, Agnes
+            </name>
+            <character>Endora  &lt;3&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Murphy, Erin (I)
+            </name>
+            <character>Tabitha Stephens  &lt;6&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Wong, Debbie (I)
+            </name>
+            <character>Stewardess  &lt;8&gt;
+            </character>
+         </actor>
+      </actors>
+      <composers>
+         <composer>Barker, Warren
+         </composer>
+      </composers>
+      <cinematographers>
+         <cinematographer>Tobey, Robert
+         </cinematographer>
+      </cinematographers>
+      <producers>
+         <producer>Ackerman, Harry
+         </producer>
+         <producer>Asher, William
+         </producer>
+         <producer>Michaels, Richard (I)
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+      <runtime>30minutes
+      </runtime>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <certifications>
+         <certification>Australia:G 
+         </certification>
+      </certifications>
+      <companies>
+         <company>Screen Gems [us]
+         </company>
+      </companies>
+      <distributors>
+         <distributor>American Broadcasting Company (ABC) [us] - (1970) (USA) (TV)
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

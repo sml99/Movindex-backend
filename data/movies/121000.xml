@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Casualty" (1986) {For Your Own Good (#10.19)}
+   </title>
+   <url>http://www.imdb.com/Title?"Casualty" (1986) {For Your Own Good (#10.19)}
+   </url>
+   <overview>
+      <directors>
+         <director>Evans, Rob (I)
+         </director>
+      </directors>
+      <writers>
+         <writer>Evans, Lisa (I)
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>UK 20 January 1996 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Bakewell, Gary
+            </name>
+            <character>Tim Greenway
+            </character>
+         </actor>
+         <actor>
+            <name>Harbour, Michael N.
+            </name>
+            <character>Trevor Wilson
+            </character>
+         </actor>
+         <actor>
+            <name>Duce, Sharon
+            </name>
+            <character>Isabel McEnery
+            </character>
+         </actor>
+      </actors>
+      <costume_designers>
+         <costume_designer>Marlowe, Christopher (II)
+         </costume_designer>
+      </costume_designers>
+      <miscellaneous>
+         <person>Salt, Peter(advisor: nursing)
+         </person>
+      </miscellaneous>
+   </cast>
+   <additional_details>
+      <countries>
+         <country>UK
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

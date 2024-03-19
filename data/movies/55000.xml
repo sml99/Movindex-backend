@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Arroz Doce" (1985)
+   </title>
+   <url>http://www.imdb.com/Title?"Arroz Doce" (1985)
+   </url>
+   <overview>
+      <directors>
+         <director>Costa, Luís Filipe
+         </director>
+      </directors>
+      <writers>
+         <writer>Isidro, Júlio
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>Portugal 1985 
+         </releasedate>
+      </releasedates>
+      <genres>
+         <genre>Musical
+         </genre>
+         <genre>Talk-Show
+         </genre>
+      </genres>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Feio, António (I)
+            </name>
+            <character>Various Roles
+            </character>
+         </actor>
+         <actor>
+            <name>Isidro, Júlio
+            </name>
+            <character>Himself - Host  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Quintas, Carlos
+            </name>
+            <character>Various Roles
+            </character>
+         </actor>
+         <actor>
+            <name>Bola, Ana
+            </name>
+            <character>Various Roles
+            </character>
+         </actor>
+         <actor>
+            <name>Cadima, Cláudia
+            </name>
+            <character>Various Roles
+            </character>
+         </actor>
+         <actor>
+            <name>Videira, Amélia
+            </name>
+            <character>Various Roles
+            </character>
+         </actor>
+         <actor>
+            <name>Vieira, Maria
+            </name>
+            <character>Various Roles
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+      <runtime>Portugal:180minutes
+      </runtime>
+      <countries>
+         <country>Portugal
+         </country>
+      </countries>
+      <languages>
+         <language>Portuguese
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <locations>
+         <location>Lisbon, Portugal
+         </location>
+      </locations>
+      <companies>
+         <company>Radiotelevisão Portuguesa (RTP) [pt]
+         </company>
+      </companies>
+      <distributors>
+         <distributor>Radiotelevisão Portuguesa (RTP) [pt] - (1985) (Portugal) (TV)
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

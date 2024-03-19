@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Algunes imatges més" (2004) {(#1.44)}
+   </title>
+   <url>http://www.imdb.com/Title?"Algunes imatges més" (2004) {(#1.44)}
+   </url>
+   <overview>
+      <directors>
+         <director>Capdevila, Carles
+         </director>
+         <director>Rosquellas, Ivan
+         </director>
+      </directors>
+      <writers>
+         <writer>Faura, Oriol (I)
+         </writer>
+         <writer>Herrera, Anabel (I)
+         </writer>
+         <writer>Pérez, Teo
+         </writer>
+         <writer>Rosquellas, Ivan
+         </writer>
+         <writer>Ventayol, Laia
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>Spain 12 March 2006 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Correal, Víctor
+            </name>
+            <character>(voice)
+            </character>
+         </actor>
+         <actor>
+            <name>Cuatrecases, Adrià
+            </name>
+            <character>(voice)
+            </character>
+         </actor>
+         <actor>
+            <name>Rosquellas, Ivan
+            </name>
+            <character>(voice)
+            </character>
+         </actor>
+         <actor>
+            <name>Verdaguer, David
+            </name>
+            <character>El reporter amb bigoti
+            </character>
+         </actor>
+         <actor>
+            <name>De Eguía, Idoia
+            </name>
+            <character>(voice)
+            </character>
+         </actor>
+      </actors>
+      <producers>
+         <producer>Bassas, Antoni
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Benson" (1979) {Kraus Falls in Love (#3.9)}
+   </title>
+   <url>http://www.imdb.com/Title?"Benson" (1979) {Kraus Falls in Love (#3.9)}
+   </url>
+   <overview>
+      <directors>
+         <director>Rich, John (I)
+         </director>
+      </directors>
+      <writers>
+         <writer>Siamis, Korby
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 15 January 1982 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Auberjonois, Rene
+            </name>
+            <character>Clayton Runnymede Endicott III  &lt;4&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Guillaume, Robert
+            </name>
+            <character>Benson DuBois  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Noble, James (I)
+            </name>
+            <character>Governor Eugene Xavier Gatling  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Phillips, Ethan (I)
+            </name>
+            <character>Peter 'Pete' John Downey  &lt;5&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Conn, Didi
+            </name>
+            <character>Denise Florence Stevens Downey  &lt;9&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Gold, Missy
+            </name>
+            <character>Katherine 'Katie' Olivia Gatling  &lt;7&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Swenson, Inga
+            </name>
+            <character>Miss Gretchen Wilomena Kraus  &lt;3&gt;
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Conan: The Adventurer" (1992)
+   </title>
+   <url>http://www.imdb.com/Title?"Conan: The Adventurer" (1992)
+   </url>
+   <overview>
+      <rating>7.3  144votes
+      </rating>
+      <writers>
+         <writer>Howard, Robert E.
+         </writer>
+         <writer>Howard, Robert E.
+         </writer>
+         <writer>Lawrence, Katherine
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 12 September 1992 
+         </releasedate>
+      </releasedates>
+      <genres>
+         <genre>Action
+         </genre>
+         <genre>Adventure
+         </genre>
+         <genre>Fantasy
+         </genre>
+         <genre>Animation
+         </genre>
+      </genres>
+      <keywords>
+         <keyword>magic
+         </keyword>
+         <keyword>robert-e.-howard
+         </keyword>
+         <keyword>sword-and-sorcery
+         </keyword>
+         <keyword>fantasy-world
+         </keyword>
+         <keyword>character-name-in-title
+         </keyword>
+      </keywords>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Stone, Doug (I)
+            </name>
+            <character>(voice)  Additional Voices
+            </character>
+         </actor>
+         <actor>
+            <name>Tockar, Lee
+            </name>
+            <character>(voice)  Additional Voices
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+      <runtime>25minutes
+      </runtime>
+      <countries>
+         <country>USA
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <companies>
+         <company>Sunbow Productions [us]
+         </company>
+         <company>Graz Entertainment - (season 1)
+         </company>
+         <company>AB Productions [fr] - (season 2)
+         </company>
+         <company>C&amp;D [fr] - (season 2)
+         </company>
+         <company>Jetlag Productions [us] - (season 2)
+         </company>
+      </companies>
+      <distributors>
+         <distributor>AB Distribution [fr]
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+      <quotes>
+         <quote>Narrator: Conan! The mightiest warrior ever! His quest: To undo the spell of Living Stone cast upon his family, by driving the evil Serpent Men back into another dimension, and vanquishing their leader, the cruel wizard, Wrath-Amon!
+         </quote>
+      </quotes>
+      <movielinks>
+         <movielink>version of 
+            <link xlink:type="simple" xlink:href="../977/144977.xml">"Conan" (1997)
+            </link>
+         </movielink>
+         <movielink>version of 
+            <link xlink:type="simple" xlink:href="../319/1050319.xml">Conan (2011)
+            </link>
+         </movielink>
+         <movielink>version of 
+            <link xlink:type="simple" xlink:href="../324/1050324.xml">Conan the Barbarian (1982)
+            </link>
+         </movielink>
+      </movielinks>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Achterbahn" (1992) {Der Mann mit dem Tropenhelm (#2.4)}
+   </title>
+   <url>http://www.imdb.com/Title?"Achterbahn" (1992) {Der Mann mit dem Tropenhelm (#2.4)}
+   </url>
+   <overview>
+      <directors>
+         <director>Draeger, Thomas
+         </director>
+      </directors>
+      <writers>
+         <writer>Lücker, Reiner
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>Germany 1993 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Dimroth, Jonas
+            </name>
+            <character>Friedel  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Fleischhauer, Matthias
+            </name>
+            <character>Hanno  &lt;3&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Gudzuhn, Jörg
+            </name>
+            <character>Hub  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Schorn, Christine
+            </name>
+            <character>Mutter von Friedel  &lt;4&gt;
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

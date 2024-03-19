@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Cinéastes de notre temps" (1964) {Le dinosaure et le bébé, dialogue en huit parties entre Fritz Lang et Jean-Luc Godard}
+   </title>
+   <url>http://www.imdb.com/Title?"Cinéastes de notre temps" (1964) {Le dinosaure et le bébé, dialogue en huit parties entre Fritz Lang et Jean-Luc Godard}
+   </url>
+   <overview>
+      <rating>7.3  60votes
+      </rating>
+      <directors>
+         <director>Labarthe, André S.
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>France 1967 
+         </releasedate>
+      </releasedates>
+      <genres>
+         <genre>Documentary
+         </genre>
+      </genres>
+      <keywords>
+         <keyword>filmmaker
+         </keyword>
+         <keyword>character-name-in-title
+         </keyword>
+      </keywords>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Godard, Jean-Luc
+            </name>
+            <character>
+            </character>
+         </actor>
+         <actor>
+            <name>Lang, Fritz (I)
+            </name>
+            <character>Himself  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Vernon, Howard (I)
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+      </actors>
+      <editors>
+         <editor>Loizon, Paul
+         </editor>
+      </editors>
+      <cinematographers>
+         <cinematographer>Perrot-Minnot, G.
+         </cinematographer>
+      </cinematographers>
+      <producers>
+         <producer>Bazin, Janine
+         </producer>
+         <producer>Labarthe, André S.
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+      <runtime>61minutes
+      </runtime>
+      <countries>
+         <country>France
+         </country>
+      </countries>
+      <languages>
+         <language>French
+         </language>
+      </languages>
+      <colors>
+         <color>Black and White
+         </color>
+      </colors>
+      <distributors>
+         <distributor>Criterion Collection, The [us] - (USA) (DVD)
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+      <trivias>
+         <trivia>- This interview is featured on the 2-Disc Criterion Collection DVD for _Contempt (1963)_, released in 2002.
+         </trivia>
+      </trivias>
+      <movielinks>
+         <movielink>featured in 
+            <link xlink:type="simple" xlink:href="../342/1261342.xml">Les messages de Fritz Lang (2001) (V)
+            </link>
+         </movielink>
+         <movielink>features 
+            <link xlink:type="simple" xlink:href="../144/1255144.xml">Le mépris (1963)
+            </link>
+         </movielink>
+         <movielink>features 
+            <link xlink:type="simple" xlink:href="../838/1277838.xml">M (1931)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../415/894415.xml">"Vive la vie" (1966)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../772/1045772.xml">Cleopatra (1963)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../274/1243274.xml">La passion de Jeanne d'Arc (1928)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../149/1317149.xml">Napoléon (1927)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../188/1338188.xml">On the Waterfront (1954)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../066/1523066.xml">The Woman in the Window (1944)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../404/1550404.xml">Une femme est une femme (1961)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../010/1556010.xml">Vampyr - Der Traum des Allan Grey (1932)
+            </link>
+         </movielink>
+         <movielink>references 
+            <link xlink:type="simple" xlink:href="../553/1592553.xml">À bout de souffle (1960)
+            </link>
+         </movielink>
+      </movielinks>
+   </fun_stuff>
+</movie>

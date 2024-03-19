@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"After the Attack" (2008)
+   </title>
+   <url>http://www.imdb.com/Title?"After the Attack" (2008)
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>USA 4 March 2008 
+         </releasedate>
+      </releasedates>
+      <genres>
+         <genre>Reality-TV
+         </genre>
+      </genres>
+      <keywords>
+         <keyword>survival
+         </keyword>
+         <keyword>animal-attack
+         </keyword>
+         <keyword>wildlife
+         </keyword>
+         <keyword>non-fiction
+         </keyword>
+      </keywords>
+   </overview>
+   <cast>
+      <producers>
+         <producer>Sabbagh, Geordie
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+      <countries>
+         <country>USA
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <companies>
+         <company>Triosphere [za]
+         </company>
+      </companies>
+      <distributors>
+         <distributor>Animal Planet [us] - (2008) (USA) (TV)
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

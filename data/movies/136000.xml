@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"City Detective" (1953) {Man Down, Woman Screaming (#2.28)}
+   </title>
+   <url>http://www.imdb.com/Title?"City Detective" (1953) {Man Down, Woman Screaming (#2.28)}
+   </url>
+   <overview>
+      <directors>
+         <director>Daugherty, Herschel
+         </director>
+      </directors>
+      <writers>
+         <writer>Kimble, Lawrence
+         </writer>
+         <writer>L'Amour, Louis
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 26 April 1955 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Cameron, Rod
+            </name>
+            <character>Detective Lt. Bart Grant  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Daly, Tom (III)
+            </name>
+            <character>&lt;6&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Ferguson, Frank (I)
+            </name>
+            <character>Hickey  &lt;5&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Kelly, Jack (I)
+            </name>
+            <character>Tom Arthur  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Van Cleef, Lee
+            </name>
+            <character>Hardtman  &lt;3&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Garland, Beverly (I)
+            </name>
+            <character>Jeanne  &lt;4&gt;
+            </character>
+         </actor>
+      </actors>
+      <editors>
+         <editor>Haire, Edward
+         </editor>
+      </editors>
+      <cinematographers>
+         <cinematographer>Ramsey, Clark
+         </cinematographer>
+      </cinematographers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Biggles" (1960) {Biggles at World's End: Part 2 (#1.31)}
+   </title>
+   <url>http://www.imdb.com/Title?"Biggles" (1960) {Biggles at World's End: Part 2 (#1.31)}
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>UK 26 August 1960 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Drummond, David (I)
+            </name>
+            <character>Bertie  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Leyton, John
+            </name>
+            <character>Ginger  &lt;3&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Whiting, Neville
+            </name>
+            <character>Biggles  &lt;1&gt;
+            </character>
+         </actor>
+      </actors>
+      <producers>
+         <producer>Black, Kitty
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

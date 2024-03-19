@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Chiquititas" (1995) {(#3.13)}
+   </title>
+   <url>http://www.imdb.com/Title?"Chiquititas" (1995) {(#3.13)}
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>Argentina 19 March 1997 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+   </cast>
+   <additional_details>
+      <runtime>Argentina:60minutes
+      </runtime>
+      <countries>
+         <country>Argentina
+         </country>
+      </countries>
+      <languages>
+         <language>Spanish
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <certifications>
+         <certification>Argentina:Atp 
+         </certification>
+      </certifications>
+      <locations>
+         <location>Buenos Aires, Federal District, Argentina
+         </location>
+      </locations>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Austin City Limits" (1975) {Pam Tillis/A Guitar Pull with Willie Nelson and Others (#21.5)}
+   </title>
+   <url>http://www.imdb.com/Title?"Austin City Limits" (1975) {Pam Tillis/A Guitar Pull with Willie Nelson and Others (#21.5)}
+   </url>
+   <overview>
+      <directors>
+         <director>Menotti, Gary
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>USA 1996 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Haggard, Merle
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+         <actor>
+            <name>Nelson, Willie
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+         <actor>
+            <name>Powers, Freddie
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+         <actor>
+            <name>DeMent, Iris
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+         <actor>
+            <name>Tillis, Pam
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+      </actors>
+      <producers>
+         <producer>Lickona, Terry
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+      <runtime>USA:60minutes
+      </runtime>
+      <countries>
+         <country>USA
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <distributors>
+         <distributor>Public Broadcasting Service (PBS) [us] - (1996) (USA) (TV) (original airing)
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Big Ideas That Changed the World" (2005) {Nationalism (#2.4)}
+   </title>
+   <url>http://www.imdb.com/Title?"Big Ideas That Changed the World" (2005) {Nationalism (#2.4)}
+   </url>
+   <overview>
+      <directors>
+         <director>Katona, Krisztina
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>UK 1 May 2007 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Blunkett, David
+            </name>
+            <character>Himself
+            </character>
+         </actor>
+      </actors>
+      <composers>
+         <composer>Reilly, Graham
+         </composer>
+      </composers>
+      <producers>
+         <producer>Clark, Malcolm (II)
+         </producer>
+         <producer>Katona, Krisztina
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+      <runtime>UK:45minutes
+      </runtime>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+      <companies>
+         <company>Mentorn [gb]
+         </company>
+      </companies>
+      <distributors>
+         <distributor>Five [gb] - (2007) (UK) (TV)
+         </distributor>
+      </distributors>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Boys and Girls" (2003)
+   </title>
+   <url>http://www.imdb.com/Title?"Boys and Girls" (2003)
+   </url>
+   <overview>
+      <rating>3.5  6votes
+      </rating>
+      <releasedates>
+         <releasedate>UK 1 March 2003 
+         </releasedate>
+      </releasedates>
+      <genres>
+         <genre>Game-Show
+         </genre>
+      </genres>
+      <keywords>
+         <keyword>non-fiction
+         </keyword>
+      </keywords>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Evans, Chris (I)
+            </name>
+            <character>Himself/Chauffeur
+            </character>
+         </actor>
+         <actor>
+            <name>Kay, Vernon
+            </name>
+            <character>Presenter  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>O'Rourke, Orla (I)
+            </name>
+            <character>Co-Presenter  &lt;2&gt;
+            </character>
+         </actor>
+      </actors>
+      <producers>
+         <producer>Eldridge, Jess
+         </producer>
+         <producer>James, Dug
+         </producer>
+      </producers>
+      <miscellaneous>
+         <person>Lambe, Jon (I)(stage manager)
+         </person>
+         <person>St. John Gray, Tom(researcher)
+         </person>
+      </miscellaneous>
+   </cast>
+   <additional_details>
+      <countries>
+         <country>UK
+         </country>
+      </countries>
+      <languages>
+         <language>English
+         </language>
+      </languages>
+      <colors>
+         <color>Color
+         </color>
+      </colors>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

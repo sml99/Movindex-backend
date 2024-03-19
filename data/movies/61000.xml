@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Au théâtre ce soir" (1966) {Aux quatre coins}
+   </title>
+   <url>http://www.imdb.com/Title?"Au théâtre ce soir" (1966) {Aux quatre coins}
+   </url>
+   <overview>
+      <directors>
+         <director>Sabbagh, Pierre
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>France 6 June 1970 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Alane, Bernard
+            </name>
+            <character>Pierre  &lt;3&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Chesnais, Patrick
+            </name>
+            <character>Jean  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Garcia, Nicole (I)
+            </name>
+            <character>Françoise  &lt;4&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Hiegel, Catherine
+            </name>
+            <character>Catherine  &lt;5&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Saint-Paul, Eva
+            </name>
+            <character>Sophie  &lt;1&gt;
+            </character>
+         </actor>
+      </actors>
+      <miscellaneous>
+         <person>Darras, Jean-Pierre(stage director)
+         </person>
+      </miscellaneous>
+   </cast>
+   <additional_details>
+      <countries>
+         <country>France
+         </country>
+      </countries>
+      <languages>
+         <language>French
+         </language>
+      </languages>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

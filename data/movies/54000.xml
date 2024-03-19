@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Armstrong Circle Theatre" (1950) {Enter Rosalind (#2.15)}
+   </title>
+   <url>http://www.imdb.com/Title?"Armstrong Circle Theatre" (1950) {Enter Rosalind (#2.15)}
+   </url>
+   <overview>
+      <writers>
+         <writer>Woodman, Ruth (I)
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 25 December 1951 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Markey, Enid
+            </name>
+            <character>
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

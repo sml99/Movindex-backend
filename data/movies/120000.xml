@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Casi ángeles" (2007) {La farsa (#3.95)}
+   </title>
+   <url>http://www.imdb.com/Title?"Casi ángeles" (2007) {La farsa (#3.95)}
+   </url>
+   <overview>
+      <directors>
+         <director>De María, Mariano
+         </director>
+      </directors>
+      <writers>
+         <writer>Morena, Cris
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>Argentina 16 September 2009 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Dalmau, Gastón
+            </name>
+            <character>Ramiro 'Rama' Ordóñez
+            </character>
+         </actor>
+         <actor>
+            <name>Di Gregorio, Stéfano
+            </name>
+            <character>León Benítez
+            </character>
+         </actor>
+         <actor>
+            <name>Lanzani, Juan Pedro
+            </name>
+            <character>Santiago Bedoya Agüero Blaquier
+            </character>
+         </actor>
+         <actor>
+            <name>Riera, Nicolás
+            </name>
+            <character>Juan 'Tacho' Morales
+            </character>
+         </actor>
+         <actor>
+            <name>Attías, Emilia
+            </name>
+            <character>Paz Bauer Inchausti
+            </character>
+         </actor>
+         <actor>
+            <name>Espósito, Mariana
+            </name>
+            <character>Marianella Talarico Rinaldi
+            </character>
+         </actor>
+         <actor>
+            <name>Funes, Mercedes
+            </name>
+            <character>Emma Valner
+            </character>
+         </actor>
+      </actors>
+      <editors>
+         <editor>Vitullo, Leandro
+         </editor>
+      </editors>
+      <producers>
+         <producer>Morena, Cris
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

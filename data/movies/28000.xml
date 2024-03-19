@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Ajoneuvos" (2006) {(#2.6)}
+   </title>
+   <url>http://www.imdb.com/Title?"Ajoneuvos" (2006) {(#2.6)}
+   </url>
+   <overview>
+      <directors>
+         <director>Sovijärvi, Tapio
+         </director>
+      </directors>
+      <writers>
+         <writer>Halli, Jussi
+         </writer>
+         <writer>Salo, Topi
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>Finland 12 February 2007 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Halli, Jussi
+            </name>
+            <character>Himself - the host  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Jokikunnas, Ellen
+            </name>
+            <character>Herself  &lt;2&gt;
+            </character>
+         </actor>
+      </actors>
+      <composers>
+         <composer>Asikainen, Aleksi
+         </composer>
+      </composers>
+      <editors>
+         <editor>Sovijärvi, Tapio
+         </editor>
+      </editors>
+      <cinematographers>
+         <cinematographer>Sovijärvi, Tapio
+         </cinematographer>
+      </cinematographers>
+      <producers>
+         <producer>Lehtinen, Roope
+         </producer>
+         <producer>Salo, Topi
+         </producer>
+         <producer>Valtanen, Sari
+         </producer>
+      </producers>
+      <miscellaneous>
+         <person>Sovijärvi, Tapio(title designer)
+         </person>
+      </miscellaneous>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

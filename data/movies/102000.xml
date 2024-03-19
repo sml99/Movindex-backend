@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Broken Arrow" (1956) {Rebellion (#1.22)}
+   </title>
+   <url>http://www.imdb.com/Title?"Broken Arrow" (1956) {Rebellion (#1.22)}
+   </url>
+   <overview>
+      <directors>
+         <director>Morse, Hollingsworth
+         </director>
+      </directors>
+      <writers>
+         <writer>Arnold, Elliott
+         </writer>
+         <writer>Scott, DeVallon
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 5 March 1957 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Ansara, Michael
+            </name>
+            <character>Cochise  &lt;2&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Beradino, John
+            </name>
+            <character>Choleno  &lt;4&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Burton, Robert (I)
+            </name>
+            <character>Peterson  &lt;6&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Fadden, Tom
+            </name>
+            <character>Duffield  &lt;3&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Lupton, John
+            </name>
+            <character>Tom Jeffords  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Fraser, Sally (I)
+            </name>
+            <character>Faith  &lt;5&gt;
+            </character>
+         </actor>
+      </actors>
+      <editors>
+         <editor>Farrell, Richard W.
+         </editor>
+      </editors>
+      <cinematographers>
+         <cinematographer>Van Enger, Charles (I)
+         </cinematographer>
+      </cinematographers>
+      <producers>
+         <producer>Armer, Alan A.
+         </producer>
+      </producers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

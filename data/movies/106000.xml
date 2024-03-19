@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Bus Stop" (1961) {Put Your Dreams Away (#1.20)}
+   </title>
+   <url>http://www.imdb.com/Title?"Bus Stop" (1961) {Put Your Dreams Away (#1.20)}
+   </url>
+   <overview>
+      <directors>
+         <director>Post, Ted
+         </director>
+      </directors>
+      <writers>
+         <writer>Browne, Howard
+         </writer>
+         <writer>Kleiner, Harry
+         </writer>
+      </writers>
+      <releasedates>
+         <releasedate>USA 11 February 1962 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Merrill, Gary
+            </name>
+            <character>Frank Everest
+            </character>
+         </actor>
+         <actor>
+            <name>Reid, Carl Benton
+            </name>
+            <character>Overton
+            </character>
+         </actor>
+         <actor>
+            <name>Farr, Felicia
+            </name>
+            <character>Carol Wells
+            </character>
+         </actor>
+         <actor>
+            <name>Harvey, Marilyn (I)
+            </name>
+            <character>Jane
+            </character>
+         </actor>
+      </actors>
+      <editors>
+         <editor>Van Enger, Richard L.
+         </editor>
+      </editors>
+      <cinematographers>
+         <cinematographer>Crosby, Floyd
+         </cinematographer>
+      </cinematographers>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

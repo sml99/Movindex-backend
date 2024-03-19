@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"...Amb Manel Fuentes" (2004) {(2004-10-21)}
+   </title>
+   <url>http://www.imdb.com/Title?"...Amb Manel Fuentes" (2004) {(2004-10-21)}
+   </url>
+   <overview>
+      <directors>
+         <director>Fuentes, Manel (I)
+         </director>
+      </directors>
+      <releasedates>
+         <releasedate>Spain 21 October 2004 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Fuentes, Manel (I)
+            </name>
+            <character>Himself - Host  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Minguillón, Margarida
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie xmlns:xlink="http://www.w3.org/1999/xlink">
+   <title>"Amigos del martes" (1961) {(1963-05-06)}
+   </title>
+   <url>http://www.imdb.com/Title?"Amigos del martes" (1961) {(1963-05-06)}
+   </url>
+   <overview>
+      <releasedates>
+         <releasedate>Spain 6 May 1963 
+         </releasedate>
+      </releasedates>
+   </overview>
+   <cast>
+      <actors>
+         <actor>
+            <name>Hilda, Bernard (I)
+            </name>
+            <character>
+            </character>
+         </actor>
+         <actor>
+            <name>Johan, Franz
+            </name>
+            <character>Host  &lt;1&gt;
+            </character>
+         </actor>
+         <actor>
+            <name>Bassey, Shirley
+            </name>
+            <character>Herself
+            </character>
+         </actor>
+         <actor>
+            <name>Frankel, Herta
+            </name>
+            <character>Perrita Marilín  &lt;3&gt;
+            </character>
+         </actor>
+      </actors>
+   </cast>
+   <additional_details>
+   </additional_details>
+   <fun_stuff>
+   </fun_stuff>
+</movie>
